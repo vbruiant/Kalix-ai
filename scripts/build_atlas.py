@@ -1,0 +1,1 @@
+// build_atlas.py - Placeholder content
